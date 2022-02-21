@@ -12,6 +12,7 @@ int main() {
   scanf("%d", &mark2);
   float avg = (float)(mark1 + mark2)/2;
   printf("Average is %.2f", avg);
+  // test comment
   return 0;
 }
 
